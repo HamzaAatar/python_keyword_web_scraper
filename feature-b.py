@@ -1,1 +1,2 @@
-print("Hey man ")
+for i in range(5):
+    print('*'*i)
